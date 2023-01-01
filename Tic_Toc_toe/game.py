@@ -110,6 +110,6 @@ if __name__ == '__main__':
         else:
             ties += 1
     print("After 1000 iterations, we see {x_wins} X wins, {o_wins} o wins, {ties} ties")
-            
-            
+
+# player error khate-2  
                     
